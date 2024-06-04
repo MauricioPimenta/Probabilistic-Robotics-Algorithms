@@ -8,3 +8,23 @@
  * @date 2024-04-23
  */
 
+#include <iostream>
+#include <list>
+#include <array>
+#include <vector>
+class ExtendedKalmanFilter
+{
+private:
+  /* data */
+public:
+  ExtendedKalmanFilter(dataset, end_frame, R, Q, initial_state, initial_covariance);
+  ~ExtendedKalmanFilter();
+};
+
+ExtendedKalmanFilter::ExtendedKalmanFilter(dataset, end_frame, R, Q, initial_state, initial_covariance);)
+{
+}
+
+ExtendedKalmanFilter::~ExtendedKalmanFilter()
+{
+}
